@@ -1,0 +1,1071 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-03-14T15:25:24</date>
+  <millis>1489526724304</millis>
+  <sequence>4</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>Load saved settings: Firmware:NodeMCU</message>
+</record>
+<record>
+  <date>2017-03-14T15:25:24</date>
+  <millis>1489526724317</millis>
+  <sequence>5</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>Snippets: loading...</message>
+</record>
+<record>
+  <date>2017-03-14T15:25:24</date>
+  <millis>1489526724320</millis>
+  <sequence>6</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>Snippets load: Success.</message>
+</record>
+<record>
+  <date>2017-03-14T15:25:24</date>
+  <millis>1489526724492</millis>
+  <sequence>7</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>Set new color theme: Success.</message>
+</record>
+<record>
+  <date>2017-03-14T15:25:24</date>
+  <millis>1489526724500</millis>
+  <sequence>8</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>Load saved settings: DONE.</message>
+</record>
+<record>
+  <date>2017-03-14T15:25:24</date>
+  <millis>1489526724501</millis>
+  <sequence>9</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>Snippets: loading...</message>
+</record>
+<record>
+  <date>2017-03-14T15:25:24</date>
+  <millis>1489526724503</millis>
+  <sequence>10</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>Snippets load: Success.</message>
+</record>
+<record>
+  <date>2017-03-14T15:25:25</date>
+  <millis>1489526725232</millis>
+  <sequence>11</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>Scan system...</message>
+</record>
+<record>
+  <date>2017-03-14T15:25:25</date>
+  <millis>1489526725255</millis>
+  <sequence>12</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>found /dev/cu.Bluetooth-Incoming-Port</message>
+</record>
+<record>
+  <date>2017-03-14T15:25:25</date>
+  <millis>1489526725256</millis>
+  <sequence>13</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>found last saved serial port /dev/cu.wchusbserial1410</message>
+</record>
+<record>
+  <date>2017-03-14T15:25:25</date>
+  <millis>1489526725258</millis>
+  <sequence>14</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>Scan done.</message>
+</record>
+<record>
+  <date>2017-03-14T15:26:00</date>
+  <millis>1489526760788</millis>
+  <sequence>15</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>Try to open file blink.lua</message>
+</record>
+<record>
+  <date>2017-03-14T15:26:00</date>
+  <millis>1489526760789</millis>
+  <sequence>16</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>File name: /Users/brett-mac/Documents/tech/nodeMCU/my_scripts/blink.lua</message>
+</record>
+<record>
+  <date>2017-03-14T15:26:00</date>
+  <millis>1489526760792</millis>
+  <sequence>17</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>Try to load file blink.lua</message>
+</record>
+<record>
+  <date>2017-03-14T15:26:01</date>
+  <millis>1489526761010</millis>
+  <sequence>18</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>Loading blink.lua: Success.</message>
+</record>
+<record>
+  <date>2017-03-14T15:26:01</date>
+  <millis>1489526761011</millis>
+  <sequence>19</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>Open "blink.lua": Success.</message>
+</record>
+<record>
+  <date>2017-03-14T15:26:03</date>
+  <millis>1489526763619</millis>
+  <sequence>20</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>Scan system...</message>
+</record>
+<record>
+  <date>2017-03-14T15:26:03</date>
+  <millis>1489526763632</millis>
+  <sequence>21</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>found /dev/cu.Bluetooth-Incoming-Port</message>
+</record>
+<record>
+  <date>2017-03-14T15:26:03</date>
+  <millis>1489526763636</millis>
+  <sequence>22</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>found last saved serial port /dev/cu.wchusbserial1410</message>
+</record>
+<record>
+  <date>2017-03-14T15:26:03</date>
+  <millis>1489526763640</millis>
+  <sequence>23</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>Scan done.</message>
+</record>
+<record>
+  <date>2017-03-14T15:26:04</date>
+  <millis>1489526764520</millis>
+  <sequence>24</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>Serial port /dev/cu.wchusbserial1410 save as default.</message>
+</record>
+<record>
+  <date>2017-03-14T15:26:04</date>
+  <millis>1489526764522</millis>
+  <sequence>25</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>Baud rate 115200 save as default.</message>
+</record>
+<record>
+  <date>2017-03-14T15:26:04</date>
+  <millis>1489526764525</millis>
+  <sequence>26</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>Try to open port /dev/cu.wchusbserial1410, baud 115200, 8N1</message>
+</record>
+<record>
+  <date>2017-03-14T15:26:05</date>
+  <millis>1489526765637</millis>
+  <sequence>27</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>Open port /dev/cu.wchusbserial1410 - Success.</message>
+</record>
+<record>
+  <date>2017-03-14T15:26:17</date>
+  <millis>1489526777636</millis>
+  <sequence>28</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>We save known file blink.lua</message>
+</record>
+<record>
+  <date>2017-03-14T15:26:17</date>
+  <millis>1489526777639</millis>
+  <sequence>29</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>Try to saving file blink.lua ...</message>
+</record>
+<record>
+  <date>2017-03-14T15:26:17</date>
+  <millis>1489526777642</millis>
+  <sequence>30</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>Save file blink.lua: Success.</message>
+</record>
+<record>
+  <date>2017-03-14T15:26:17</date>
+  <millis>1489526777728</millis>
+  <sequence>31</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>FileSaveESP: Try to save file to ESP...</message>
+</record>
+<record>
+  <date>2017-03-14T15:26:17</date>
+  <millis>1489526777734</millis>
+  <sequence>32</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>DataSender: start "Smart Mode"</message>
+</record>
+<record>
+  <date>2017-03-14T15:26:17</date>
+  <millis>1489526777735</millis>
+  <sequence>33</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>FileSaveESP: Starting...</message>
+</record>
+<record>
+  <date>2017-03-14T15:26:17</date>
+  <millis>1489526777861</millis>
+  <sequence>34</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>0</message>
+</record>
+<record>
+  <date>2017-03-14T15:26:17</date>
+  <millis>1489526777865</millis>
+  <sequence>35</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:file.remove("blink.lua");&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-03-14T15:26:17</date>
+  <millis>1489526777914</millis>
+  <sequence>36</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>35</thread>
+  <message>recv:file.remove("blink.lua");</message>
+</record>
+<record>
+  <date>2017-03-14T15:26:17</date>
+  <millis>1489526777993</millis>
+  <sequence>37</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>1</message>
+</record>
+<record>
+  <date>2017-03-14T15:26:17</date>
+  <millis>1489526777994</millis>
+  <sequence>38</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:file.open("blink.lua","w+");&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-03-14T15:26:18</date>
+  <millis>1489526778023</millis>
+  <sequence>39</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>35</thread>
+  <message>recv:file.open("blink.lua","w+");&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-03-14T15:26:18</date>
+  <millis>1489526778060</millis>
+  <sequence>40</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>2</message>
+</record>
+<record>
+  <date>2017-03-14T15:26:18</date>
+  <millis>1489526778068</millis>
+  <sequence>41</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:w = file.writeline&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-03-14T15:26:18</date>
+  <millis>1489526778203</millis>
+  <sequence>42</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>35</thread>
+  <message>recv:&gt; w = file.writeline</message>
+</record>
+<record>
+  <date>2017-03-14T15:26:18</date>
+  <millis>1489526778225</millis>
+  <sequence>43</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>3</message>
+</record>
+<record>
+  <date>2017-03-14T15:26:18</date>
+  <millis>1489526778229</millis>
+  <sequence>44</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:w([==[print("running blink")]==]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-03-14T15:26:18</date>
+  <millis>1489526778237</millis>
+  <sequence>45</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>35</thread>
+  <message>recv:w([==[print("running blink")]==]</message>
+</record>
+<record>
+  <date>2017-03-14T15:26:18</date>
+  <millis>1489526778266</millis>
+  <sequence>46</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>35</thread>
+  <message>recv:);</message>
+</record>
+<record>
+  <date>2017-03-14T15:26:18</date>
+  <millis>1489526778285</millis>
+  <sequence>47</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>4</message>
+</record>
+<record>
+  <date>2017-03-14T15:26:18</date>
+  <millis>1489526778289</millis>
+  <sequence>48</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:w([==[lighton=0]==]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-03-14T15:26:18</date>
+  <millis>1489526778327</millis>
+  <sequence>49</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>35</thread>
+  <message>recv:w([==[lighton=0]==]);</message>
+</record>
+<record>
+  <date>2017-03-14T15:26:18</date>
+  <millis>1489526778357</millis>
+  <sequence>50</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>5</message>
+</record>
+<record>
+  <date>2017-03-14T15:26:18</date>
+  <millis>1489526778360</millis>
+  <sequence>51</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:w([==[pin=4]==]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-03-14T15:26:18</date>
+  <millis>1489526778393</millis>
+  <sequence>52</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>35</thread>
+  <message>recv:w([==[pin=4]==]);</message>
+</record>
+<record>
+  <date>2017-03-14T15:26:18</date>
+  <millis>1489526778437</millis>
+  <sequence>53</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>6</message>
+</record>
+<record>
+  <date>2017-03-14T15:26:18</date>
+  <millis>1489526778441</millis>
+  <sequence>54</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:w([==[gpio.mode(pin,gpio.OUTPUT)]==]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-03-14T15:26:18</date>
+  <millis>1489526778452</millis>
+  <sequence>55</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>35</thread>
+  <message>recv:w([==[gpio.mode(pin,gpio.OUTPUT)</message>
+</record>
+<record>
+  <date>2017-03-14T15:26:18</date>
+  <millis>1489526778484</millis>
+  <sequence>56</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>35</thread>
+  <message>recv:]==]);</message>
+</record>
+<record>
+  <date>2017-03-14T15:26:18</date>
+  <millis>1489526778539</millis>
+  <sequence>57</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>7</message>
+</record>
+<record>
+  <date>2017-03-14T15:26:18</date>
+  <millis>1489526778549</millis>
+  <sequence>58</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:w([==[tmr.alarm(1,1000,1,function()]==]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-03-14T15:26:18</date>
+  <millis>1489526778556</millis>
+  <sequence>59</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>35</thread>
+  <message>recv:w([==[tmr.alarm(1,1000,1,functio</message>
+</record>
+<record>
+  <date>2017-03-14T15:26:18</date>
+  <millis>1489526778587</millis>
+  <sequence>60</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>35</thread>
+  <message>recv:n()]==]);</message>
+</record>
+<record>
+  <date>2017-03-14T15:26:18</date>
+  <millis>1489526778617</millis>
+  <sequence>61</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>8</message>
+</record>
+<record>
+  <date>2017-03-14T15:26:18</date>
+  <millis>1489526778620</millis>
+  <sequence>62</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:w([==[    if lighton==0 then]==]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-03-14T15:26:18</date>
+  <millis>1489526778629</millis>
+  <sequence>63</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>35</thread>
+  <message>recv:w([==[    if lighton==0 then]==]</message>
+</record>
+<record>
+  <date>2017-03-14T15:26:18</date>
+  <millis>1489526778653</millis>
+  <sequence>64</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>35</thread>
+  <message>recv:);</message>
+</record>
+<record>
+  <date>2017-03-14T15:26:18</date>
+  <millis>1489526778695</millis>
+  <sequence>65</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>9</message>
+</record>
+<record>
+  <date>2017-03-14T15:26:18</date>
+  <millis>1489526778702</millis>
+  <sequence>66</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:w([==[        lighton=1]==]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-03-14T15:26:18</date>
+  <millis>1489526778717</millis>
+  <sequence>67</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>35</thread>
+  <message>recv:w([==[        lighton=1]==]);&lt;CR&gt;&lt;LF&gt;&gt;</message>
+</record>
+<record>
+  <date>2017-03-14T15:26:18</date>
+  <millis>1489526778741</millis>
+  <sequence>68</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>35</thread>
+  <message>recv: </message>
+</record>
+<record>
+  <date>2017-03-14T15:26:18</date>
+  <millis>1489526778798</millis>
+  <sequence>69</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>10</message>
+</record>
+<record>
+  <date>2017-03-14T15:26:18</date>
+  <millis>1489526778801</millis>
+  <sequence>70</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:w([==[        gpio.write(pin,gpio.HIGH)]==]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-03-14T15:26:18</date>
+  <millis>1489526778815</millis>
+  <sequence>71</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>35</thread>
+  <message>recv:w([==[        gpio.write(pin,gpi</message>
+</record>
+<record>
+  <date>2017-03-14T15:26:18</date>
+  <millis>1489526778843</millis>
+  <sequence>72</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>35</thread>
+  <message>recv:o.HIGH)]==]);</message>
+</record>
+<record>
+  <date>2017-03-14T15:26:18</date>
+  <millis>1489526778868</millis>
+  <sequence>73</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>11</message>
+</record>
+<record>
+  <date>2017-03-14T15:26:18</date>
+  <millis>1489526778877</millis>
+  <sequence>74</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:w([==[    else]==]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-03-14T15:26:18</date>
+  <millis>1489526778936</millis>
+  <sequence>75</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>35</thread>
+  <message>recv:w([==[    else]==]);</message>
+</record>
+<record>
+  <date>2017-03-14T15:26:18</date>
+  <millis>1489526778976</millis>
+  <sequence>76</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>12</message>
+</record>
+<record>
+  <date>2017-03-14T15:26:18</date>
+  <millis>1489526778988</millis>
+  <sequence>77</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:w([==[        lighton=0]==]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-03-14T15:26:19</date>
+  <millis>1489526779000</millis>
+  <sequence>78</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>35</thread>
+  <message>recv:w([==[        lighton=0]==]);&lt;CR&gt;&lt;LF&gt;&gt;</message>
+</record>
+<record>
+  <date>2017-03-14T15:26:19</date>
+  <millis>1489526779030</millis>
+  <sequence>79</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>35</thread>
+  <message>recv: </message>
+</record>
+<record>
+  <date>2017-03-14T15:26:19</date>
+  <millis>1489526779039</millis>
+  <sequence>80</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>13</message>
+</record>
+<record>
+  <date>2017-03-14T15:26:19</date>
+  <millis>1489526779043</millis>
+  <sequence>81</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:w([==[        gpio.write(pin,gpio.LOW)]==]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-03-14T15:26:19</date>
+  <millis>1489526779051</millis>
+  <sequence>82</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>35</thread>
+  <message>recv:w([==[        gpio.write(pin,gpi</message>
+</record>
+<record>
+  <date>2017-03-14T15:26:19</date>
+  <millis>1489526779080</millis>
+  <sequence>83</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>35</thread>
+  <message>recv:o.LOW)]==]);</message>
+</record>
+<record>
+  <date>2017-03-14T15:26:19</date>
+  <millis>1489526779098</millis>
+  <sequence>84</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>14</message>
+</record>
+<record>
+  <date>2017-03-14T15:26:19</date>
+  <millis>1489526779109</millis>
+  <sequence>85</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:w([==[    end]==]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-03-14T15:26:19</date>
+  <millis>1489526779145</millis>
+  <sequence>86</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>35</thread>
+  <message>recv:w([==[    end]==]);</message>
+</record>
+<record>
+  <date>2017-03-14T15:26:19</date>
+  <millis>1489526779167</millis>
+  <sequence>87</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>15</message>
+</record>
+<record>
+  <date>2017-03-14T15:26:19</date>
+  <millis>1489526779174</millis>
+  <sequence>88</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:w([==[end)]==]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-03-14T15:26:19</date>
+  <millis>1489526779210</millis>
+  <sequence>89</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>35</thread>
+  <message>recv:w([==[end)]==]);</message>
+</record>
+<record>
+  <date>2017-03-14T15:26:19</date>
+  <millis>1489526779231</millis>
+  <sequence>90</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>16</message>
+</record>
+<record>
+  <date>2017-03-14T15:26:19</date>
+  <millis>1489526779235</millis>
+  <sequence>91</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:file.close();&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-03-14T15:26:19</date>
+  <millis>1489526779272</millis>
+  <sequence>92</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>35</thread>
+  <message>recv:file.close();</message>
+</record>
+<record>
+  <date>2017-03-14T15:26:19</date>
+  <millis>1489526779301</millis>
+  <sequence>93</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>17</message>
+</record>
+<record>
+  <date>2017-03-14T15:26:19</date>
+  <millis>1489526779304</millis>
+  <sequence>94</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>sending:dofile("blink.lua");&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-03-14T15:26:19</date>
+  <millis>1489526779329</millis>
+  <sequence>95</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>35</thread>
+  <message>recv:dofile("blink.lua");&lt;CR&gt;&lt;LF&gt;running bl</message>
+</record>
+<record>
+  <date>2017-03-14T15:26:19</date>
+  <millis>1489526779431</millis>
+  <sequence>96</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>35</thread>
+  <message>Operation done. Duration = 1702 ms</message>
+</record>
+<record>
+  <date>2017-03-14T15:26:27</date>
+  <millis>1489526787097</millis>
+  <sequence>97</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>RTS set to ON</message>
+</record>
+<record>
+  <date>2017-03-14T15:26:29</date>
+  <millis>1489526789758</millis>
+  <sequence>98</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>RTS set to OFF</message>
+</record>
+<record>
+  <date>2017-03-14T15:26:33</date>
+  <millis>1489526793139</millis>
+  <sequence>99</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>FileTab cleared: Success.</message>
+</record>
+<record>
+  <date>2017-03-14T15:26:33</date>
+  <millis>1489526793140</millis>
+  <sequence>100</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>16</thread>
+  <message>File close: Success.</message>
+</record>
+</log>
