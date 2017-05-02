@@ -1,21 +1,13 @@
-local serialData = nil
-
 print("listening on serial...")
-
-uart.on("data","~",
+ 
+-- listen for data word
+uart.on("data",16,
     function(data)
-        -- write response through tx
-        print("writing response")
-        uart.write(0, "~")
-        
-        -- listen for data word
-        uart.on("data",2,
-            function(data)
-                serialData = data
-                print("serial Data:")
-                print(serialData)
-                uart.on("data")  -- stop callback of this function                
-        end,0)
-    uart.on("data")  -- stop callback of this function
+        serialData = string.sub(data, 16)
+        print("serial Data:", data)
+        print("char:", serialData)
+        if serialData == '\r' then
+            print("It worked!")
+            uart.on("data")  -- stop callback of this function                
+        end
 end,0)
-
