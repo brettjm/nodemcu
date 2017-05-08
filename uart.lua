@@ -9,14 +9,15 @@ function runUart(sck)
         function(data)
             -- Get terminating character '\r' of data sequence
             terminatingChar = string.sub(data, 16)
---            serialData = string.sub(data, 0, 15)
---            print("serial Data:", serialData)  -- debug
+
+            -- Get serial data and concatenate with newline char
+            serialData = string.sub(data, 0, 15) .. '\n'
+            print("serial Data:", serialData)  -- debug
 
             -- Look for terminating character of sequence
             if terminatingChar == '\r' then
-                print("It worked!")  -- Debug
-                sck:send(data)  -- Send data through tcp
-                uart.on("data")  -- debugging, stop callback of this function                
+                sck:send(serialData)  -- Send data through tcp
+--                uart.on("data")  -- Stop callback of this function                
             end
     end,0)
 end
