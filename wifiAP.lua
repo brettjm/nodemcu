@@ -4,7 +4,7 @@ local str=wifi.ap.getmac();
 local ssidTemp=string.format("%s%s%s",string.sub(str,10,11),string.sub(str,13,14),string.sub(str,16,17));
 
 cfg={}
-cfg.ssid="ESP_"..ssidTemp;
+cfg.ssid="ESP_";
 cfg.pwd="12345678"
 wifi.ap.config(cfg)
 
@@ -21,4 +21,4 @@ collectgarbage();
 
 print("soft AP started")
 print("Heep:(bytes)"..node.heap());
-print("MAC:"..wifi.ap.getmac().."\r\nIP:"..wifi.ap.getip());
+--print("MAC:"..wifi.ap.getmac().."\r\nIP:"..wifi.ap.getip());

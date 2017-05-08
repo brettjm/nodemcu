@@ -1,21 +1,33 @@
-local serialData = nil
+srv = net.createServer(net.TCP, 0)  -- Create tcp server
 
-print("listening on serial...")
+-- Run the uart and send data over tcp upon correct completion
+function runUart(sck)
+    print("listening on serial...")
+    
+    -- Read 16 bytes of data
+    uart.on("data",16,
+        function(data)
+            -- Get terminating character '\r' of data sequence
+            terminatingChar = string.sub(data, 16)
+--            serialData = string.sub(data, 0, 15)
+--            print("serial Data:", serialData)  -- debug
 
-uart.on("data","~",
-    function(data)
-        -- write response through tx
-        print("writing response")
-        uart.write(0, "~")
-        
-        -- listen for data word
-        uart.on("data",2,
-            function(data)
-                serialData = data
-                print("serial Data:")
-                print(serialData)
-                uart.on("data")  -- stop callback of this function                
-        end,0)
-    uart.on("data")  -- stop callback of this function
-end,0)
+            -- Look for terminating character of sequence
+            if terminatingChar == '\r' then
+                print("It worked!")  -- Debug
+                sck:send(data)  -- Send data through tcp
+                uart.on("data")  -- debugging, stop callback of this function                
+            end
+    end,0)
+end
 
+-- Integrity checking
+if srv then
+    -- Wait for tcp client response
+    srv:listen(80, function(conn)
+        print("tcp connected")  -- Degubbing
+
+        -- When connection is established run uart function
+        conn:on("connection", runUart)  
+    end)
+end

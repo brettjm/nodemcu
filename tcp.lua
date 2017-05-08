@@ -1,7 +1,7 @@
 
 -- server listens on 80, if data received, print data to console and send "hello world" back to caller
 -- 30s time out for a inactive client
-srv = net.createServer(net.TCP, 30)
+srv = net.createServer(net.TCP, 0)
 
 function receiver(sck, data)
   local response = {}
@@ -27,8 +27,17 @@ function receiver(sck, data)
   send(sck)
 end
 
-if srv then
-  srv:listen(80, function(conn)
-    conn:on("receive", receiver)
-  end)
-end
+--if srv then
+--  srv:listen(80, function(conn)
+--    conn:on("receive", receiver)
+--  end)
+--end
+
+--if srv then
+    srv:listen(80, function(conn)
+--        conn:on("receive", function(sck, c) print(c) end)
+        conn:on("connection", function(sck, c)
+            sck:send("poop\n")
+        end)
+    end)
+--end

@@ -73,7 +73,7 @@ function startup()
 
     runFile("wifiAP.lua")
     runFile("uart.lua")
-    print("here")
+--    runFile("tcp.lua")
 
 end
 
